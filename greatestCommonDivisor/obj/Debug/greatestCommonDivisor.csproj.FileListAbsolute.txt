@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\greatestCommonDivisor\greatestCommonDivisor\bin\Debug\greatestCommonDivisor.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\greatestCommonDivisor\greatestCommonDivisor\bin\Debug\greatestCommonDivisor.exe
+c:\users\hp\documents\visual studio 2015\Projects\greatestCommonDivisor\greatestCommonDivisor\bin\Debug\greatestCommonDivisor.pdb
+c:\users\hp\documents\visual studio 2015\Projects\greatestCommonDivisor\greatestCommonDivisor\obj\Debug\greatestCommonDivisor.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\greatestCommonDivisor\greatestCommonDivisor\obj\Debug\greatestCommonDivisor.exe
+c:\users\hp\documents\visual studio 2015\Projects\greatestCommonDivisor\greatestCommonDivisor\obj\Debug\greatestCommonDivisor.pdb
